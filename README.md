@@ -1,8 +1,14 @@
-### Hi there, I'm Aban Alfaify 👋
-Software Engineering student at PMU, building toward Technical Animation in games.
+###Hi there, I'm Aban Alfaify 👋
 
-- 🌱 I'm currently learning Maya (character animation & rigging) and Python for rigging automation via [The Gnomon Workshop](https://www.thegnomonworkshop.com/)
-- 🎮 Also working with Unreal Engine 5 and C++ - see pinned repos for gameplay prototypes
+Software Engineering student at PMU, working as a Technical Artist in Unreal Engine 5 & Houdini.
+
+- 🎮 Spent summer 2026 as a Technical Artist Intern at ZNTRX Gaming Studios on their debut title: Control Rig, animation systems, first person rendering, and gameplay C++
+- 🔧 Also ran the studio's version control migration off Git LFS onto Diversion. Ask me why merging .uasset files ruins lives
+- ⚙️ Using Houdini for procedural asset generation, FX, and tool building
 - 🎬 Ask me about cinematic storytelling and scene composition
-- ⚡ Fun fact: I met Kojima, you didn't
-- 📫 How to reach me: abanalfaify@gmail.com
+- 📫 How to reach me: aban@abanalfaify.com
+
+
+
+
+Feel free to checkout my website! https://abanalfaify.com/
